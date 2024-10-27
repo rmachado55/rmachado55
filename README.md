@@ -1,6 +1,6 @@
 <div style="background-color:aquamarine;">
 <h1>RICARDO MACHADO - FRONT-END DEVELOPER</h1>
-<a href="https://www.ricardomachado.great-site.net/">Visit my complete Portfolio: https://www.ricardomachado.great-site.net/</a>
+  <h4>Previously worked as React Developer at BEES platform and freelancer<h4/> 
 <h3>Skills:</h3>
 <ul>
 <li><h4><img width="32px" src="https://user-images.githubusercontent.com/94208335/209860894-334b7e1c-d269-4a3f-8ff4-e6156d6db638.png"></img>JavaScript</h4></li>
